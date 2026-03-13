@@ -7,8 +7,6 @@
 **简体中文 &nbsp; | &nbsp; [English](#english)**
 <a id="chinese"></a>
 
-### 📸 软件截图
-
 <div align="center"><img alt="zh" src="doc/zh.png"></div>
 
 ### 项目简介
@@ -55,9 +53,6 @@ Pqscrcpy 是一个基于 PyQt5 开发的 [scrcpy](https://github.com/Genymobile/
 ---
 **[简体中文](#chinese) &nbsp; | &nbsp; English**
 <a id="english"></a>
-
-### 📸 Screenshots
-
 
 <div align="center"><img alt="en" src="doc/en.png"></div>
 
