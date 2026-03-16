@@ -169,7 +169,7 @@ class SettingsDialog(QDialog):
                 "lbl_res": "Resolution:",
                 "lbl_bitrate": "Bitrate:",
                 "lbl_pfps": "Frame Rate:",
-                "about": "<a href='https://github.com/TryHall/Pqscrcpy' style='color: #4daafc; text-decoration: none;'>Pqscrcpy v1.0.0</a> | <a href='https://github.com/Genymobile/scrcpy' style='color: #4daafc; text-decoration: none;'>Powered by scrcpy</a>"
+                "about": "<a href='https://github.com/TryHall/Pqscrcpy' style='color: #4daafc; text-decoration: none;'>Pqscrcpy v1.0.1</a> | <a href='https://github.com/Genymobile/scrcpy' style='color: #4daafc; text-decoration: none;'>Powered by scrcpy</a>"
             },
             "ZH": {
                 "title": "Pqscrcpy 设置",
@@ -211,7 +211,7 @@ class SettingsDialog(QDialog):
                 "lbl_res": "分辨率:",
                 "lbl_bitrate": "比特率:",
                 "lbl_pfps": "帧率:",
-                "about": "<a href='https://github.com/TryHall/Pqscrcpy' style='color: #4daafc; text-decoration: none;'>Pqscrcpy v1.0.0</a> | <a href='https://github.com/Genymobile/scrcpy' style='color: #4daafc; text-decoration: none;'>由 scrcpy 驱动</a>"
+                "about": "<a href='https://github.com/TryHall/Pqscrcpy' style='color: #4daafc; text-decoration: none;'>Pqscrcpy v1.0.1</a> | <a href='https://github.com/Genymobile/scrcpy' style='color: #4daafc; text-decoration: none;'>由 scrcpy 驱动</a>"
             }
         }
 
